@@ -2,7 +2,7 @@
   "name": "functions-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Miguel1989-hub.github.io/functions-react",
+  "homepage": "https://Miguel1989-hub.github.io/formulario-cadastro-react",
   "dependencies": {
     "@emotion/react": "^11.8.1",
     "@emotion/styled": "^11.8.1",
